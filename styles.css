@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    max-width: 600px;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.head {
+    background-color: white;
+}
+
+.head h1 {
+    padding: 5px 0px;
+    font-size: 30px;
+    text-align: left;
+    max-width: 600px;
+    margin: auto;
+}
+
+.post {
+    width: 600px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.post-head {
+    display: flex;
+    padding: 5px 0px;
+}
+
+.post-head h2 {
+    font-size: 20px;
+}
+
+.post-title {
+    padding-left: 10px;
+    width: 725px;
+}
+
+.post-date {
+    padding-right: 10px;
+    color: gray;
+}
+
+.post-body {
+    text-align: center;
+}
+
+.post-foot p {
+    padding: 10px;
+}
